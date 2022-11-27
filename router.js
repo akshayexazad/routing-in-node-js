@@ -38,8 +38,3 @@ let requestHandeler= (req,res)=>{
          res.end();
 }
 module.exports= requestHandeler;
-// module.exports={
-//    handeler:requestHandeler,
-//    text:"this is text"
-// }
-// module.exports.handeler=requestHandeler;
